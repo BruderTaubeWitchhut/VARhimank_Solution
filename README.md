@@ -1,7 +1,22 @@
-# [![waylon walker header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/himank-varshney-42b96717a/)
+[![header](https://github.com/VARhimank/VARhimank/blob/main/header.gif)](https://www.linkedin.com/in/himank-varshney-42b96717a/)
 
-Hello 🟢 My name is Himank Varshney and I am a CSE college student. I have interests in **🟢HTML**, **🟢CSS** and **🟢C++** and I can **🟢Design** as well. I'm from India. You can contact me using 🟢[LinkedIn](https://www.linkedin.com/in/himank-varshney-42b96717a/). I have a lot to learn and I hope you give me the opportunity !
+Hi — I'm Himank Varshney. I'm a Computer Science student from India with interests in HTML, CSS, and C++. I enjoy designing interfaces and building small projects.
 
-📗I use C/C++ for coding | 🐍Will start learning python soon | 🚵‍♂️Recent Activity :<a href="https://github.com/VARhimank/MLH-Local-Hack-Day">[Click here]</a>⛳
+- 🔭 I code mainly in C / C++  
+- 🌱 Currently learning Python and web development  
+- 💬 Ask me about frontend basics, C++ or design  
+- 📫 Reach me: add your preferred contact (LinkedIn / email / website)  
+- ⚡ Fun fact: I enjoy building UI projects and practicing algorithms
 
-🍀![](https://komarev.com/ghpvc/?username=VARhimank&color=brightgreen)🚙
+Skills
+- Languages: C, C++ (primary), HTML, CSS  
+- Tools & Concepts: Basic design, Git & GitHub, problem solving
+
+Recent Activity
+- Check my recent project: [MLH-Local-Hack-Day](https://github.com/VARhimank/MLH-Local-Hack-Day)
+
+Profile Views
+![](https://komarev.com/ghpvc/?username=VARhimank&color=brightgreen)
+
+Notes
+- This repo is part of an activity to practice forking, committing and merging. Feel free to fork and open a PR with improvements.
